@@ -1,10 +1,8 @@
 Flask
 gunicorn
-pandas
 numpy
-joblib
+pandas
 folium
-geopandas
-shapely
-pyproj
-fiona
+joblib
+scikit-learn==1.6.1
+imbalanced-learn
